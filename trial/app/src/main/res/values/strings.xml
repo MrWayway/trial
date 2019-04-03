@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">trial</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="circle">Circle</string>
+    <string name="square">Square</string>
+    <string name="oval">Oval</string>
+    <string name="heart">Heart</string>
+    <string name="diamond">Diamond</string>
+    <string name="star">Star</string>
+</resources>

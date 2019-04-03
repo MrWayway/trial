@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button_rec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rectangle" />
+
+    <Button
+        android:id="@+id/button_circle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/circle" />
+
+    <Button
+        android:id="@+id/button_square"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/square" />
+
+    <Button
+        android:id="@+id/button_oval"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/oval" />
+
+    <Button
+        android:id="@+id/button_heart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/heart" />
+
+    <Button
+        android:id="@+id/button_diamond"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/diamond" />
+
+    <Button
+        android:id="@+id/button_star"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/star" />
+</LinearLayout>
